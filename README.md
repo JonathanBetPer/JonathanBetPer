@@ -3,7 +3,7 @@
 Además soy Técnico en Sistemas MIcroinformáticos y Redes 👨‍💻
 
 
-## 🌐 Redes Solciales:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-betancor-perdomo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Yoni13JA) 
 
 # 💻 Tech Stack:
