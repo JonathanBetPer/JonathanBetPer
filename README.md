@@ -1,6 +1,5 @@
 # Sobre mí:
-⚙ Actualmente estoy estudiando un CFGS de Desarrollo de Aplicaciones Multiplataforma. <br>
-Además soy Técnico en Sistemas MIcroinformáticos y Redes 👨‍💻
+Desarrollo de Aplicaciones Multiplataforma y Técnico en Sistemas MIcroinformáticos y Redes 👨‍💻
 
 
 ## 🌐 Redes Sociales:
